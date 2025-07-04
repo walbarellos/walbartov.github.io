@@ -1,9 +1,8 @@
 .. title: Sobre
 .. slug: about
-.. date: 2025-04-18 12:00:00
+.. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags: toeflitp, inglês, hebraico, sobre, certificado
 .. description: Conheça mais sobre Willian Albarello.
-.. type: text
 
 # Sobre
 

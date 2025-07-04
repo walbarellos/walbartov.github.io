@@ -17,15 +17,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Willian Albarello"  # (translatable)
-BLOG_TITLE = "Site pessoal"  # (translatable)
+BLOG_TITLE = "Coluna do Meio"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://colunadomeio.netlify.app/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "willianalbarello@gmail.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "Blog Coluna do Meio."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -146,7 +146,7 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://walbartov.github.io', 'About me', 'fa fa-user'),
+        ('https://colunadomeio.netlify.app/about', 'About me', 'fa fa-user'),
         ('https://qoto.org/@wepiphany', 'Qoto', 'fab fa-twitter'),
         ('https://github.com/walbarellos', 'Github', 'fab fa-github'),
     )
@@ -990,7 +990,8 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://dev-walbarello.netlify.app/" rel="nofollow">:D</a>         {license}'
+
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

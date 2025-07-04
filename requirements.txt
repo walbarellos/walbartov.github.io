@@ -1,1 +1,4 @@
 nikola
+Nikola[extras]
+Jinja2>=3.0
+

@@ -3,6 +3,7 @@
 .. date: 2012-03-30 23:00:00 UTC-03:00
 .. tags: toeflitp, inglês, hebraico, sobre, certificado
 .. description: Conheça mais sobre Willian Albarello.
+.. type: text
 
 # Sobre
 

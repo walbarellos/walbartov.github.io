@@ -151,6 +151,8 @@ NAVIGATION_LINKS = {
         ('https://github.com/walbarellos', 'Github', 'fab fa-github'),
     )
 }
+
+
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)

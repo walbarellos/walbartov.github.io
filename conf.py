@@ -146,12 +146,11 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://colunadomeio.netlify.app/about.md', 'About me', 'fa fa-user'),
+        ('/about/', 'About me', 'fa fa-user'),  # ✅ CORRIGIDO AQUI
         ('https://qoto.org/@wepiphany', 'Qoto', 'fab fa-twitter'),
         ('https://github.com/walbarellos', 'Github', 'fab fa-github'),
     )
 }
-
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
